@@ -1,5 +1,5 @@
-a = 12
-b = 1.5
-c = 'Python'
-d = b/a
-print ('Курс:',c,',всего_задач:',a,', затрачено часов:',b,', среднее время выполнения:',d)
+homework_done = 12
+hours_spent= 1.5
+platform = 'Python'
+average_execution_time = hours_spent/homework_done
+print ('Курс:',platform,'; всего задач:',homework_done,'; затрачено часов:',hours_spent,'; среднее время выполнения:',average_execution_time)
